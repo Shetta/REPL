@@ -22,7 +22,7 @@ If you think that these can be improved in any way, please do suggest.
 
 ## ML Engineer Roadmap
 
-![Backend Roadmap](./img/ml-engineer.png)
+![Backend Roadmap](https://i.imgur.com/Z27wClq.png)
 
 ## 🚦 Wrap Up
 
